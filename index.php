@@ -13,4 +13,4 @@ if (isset($_FILES['file'])) {
 } else {
     echo "<h1>Lisning....</h1>";
 }
-?
+?>
